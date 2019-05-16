@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Formatter test Renders the text formatter 1`] = `
+<Fragment>
+  <select
+    name="font"
+    onChange={[Function]}
+    value=""
+  >
+    <option
+      key="Alligator"
+      value="Alligator"
+    >
+      Alligator
+    </option>
+    <option
+      key="Alpha"
+      value="Alpha"
+    >
+      Alpha
+    </option>
+    <option
+      key="Barbwire"
+      value="Barbwire"
+    >
+      Barbwire
+    </option>
+    <option
+      key="Banner4"
+      value="Banner4"
+    >
+      Banner4
+    </option>
+    <option
+      key="Isometric3"
+      value="Isometric3"
+    >
+      Isometric3
+    </option>
+  </select>
+  <input
+    name="text"
+    onChange={[Function]}
+    value=""
+  />
+  <input
+    name="color"
+    onChange={[Function]}
+    type="color"
+    value="black"
+  />
+  <pre
+    style={
+      Object {
+        "color": "black",
+      }
+    }
+  />
+</Fragment>
+`;
