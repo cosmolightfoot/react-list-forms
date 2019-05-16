@@ -15,7 +15,6 @@ export default class CreateColor extends PureComponent {
     preventDefault();
     const { name, color } = this.state;
     
-    console.log({ name, hex: color })
     this.props.addColor({ name, hex: color });
   }
 
