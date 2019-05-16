@@ -11,8 +11,8 @@ export default class CreateColor extends PureComponent {
     color: '#000000'
   }
 
-  handleSubmit = ({ preventDefault }) => {
-    preventDefault();
+  handleSubmit = event => {
+    event.preventDefault();
     const { name, color } = this.state;
     
     this.props.addColor({ name, hex: color });
