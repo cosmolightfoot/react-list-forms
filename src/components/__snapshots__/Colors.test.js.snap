@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Colors test can render Colors 1`] = `
+<ul>
+  <li
+    key="Red-#FF0000-[object Object]"
+    style={
+      Object {
+        "textDecoration": "none",
+      }
+    }
+  >
+    <Color
+      hex="#FF0000"
+      name="Red"
+      rgb={
+        Object {
+          "blue": 0,
+          "green": 0,
+          "red": 255,
+        }
+      }
+    />
+  </li>
+  <li
+    key="White-#FFFFFF-[object Object]"
+    style={
+      Object {
+        "textDecoration": "none",
+      }
+    }
+  >
+    <Color
+      hex="#FFFFFF"
+      name="White"
+      rgb={
+        Object {
+          "blue": 255,
+          "green": 255,
+          "red": 255,
+        }
+      }
+    />
+  </li>
+  <li
+    key="Black-#000000-[object Object]"
+    style={
+      Object {
+        "textDecoration": "none",
+      }
+    }
+  >
+    <Color
+      hex="#000000"
+      name="Black"
+      rgb={
+        Object {
+          "blue": 0,
+          "green": 0,
+          "red": 0,
+        }
+      }
+    />
+  </li>
+  <li
+    key="Blue-#0000FF-[object Object]"
+    style={
+      Object {
+        "textDecoration": "none",
+      }
+    }
+  >
+    <Color
+      hex="#0000FF"
+      name="Blue"
+      rgb={
+        Object {
+          "blue": 255,
+          "green": 0,
+          "red": 0,
+        }
+      }
+    />
+  </li>
+</ul>
+`;

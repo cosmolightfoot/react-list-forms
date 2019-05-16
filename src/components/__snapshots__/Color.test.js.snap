@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Color test renders Color 1`] = `
+<dl>
+  <dt>
+    Name:
+  </dt>
+  <dd>
+    Black
+    <div
+      className="display"
+      style={
+        Object {
+          "backgroundColor": "000000",
+        }
+      }
+    />
+  </dd>
+  <dt>
+    Hex:
+  </dt>
+  <dd>
+    000000
+  </dd>
+  <dt>
+    Red:
+  </dt>
+  <dd>
+    0
+  </dd>
+  <dt>
+    Green:
+  </dt>
+  <dd>
+    0
+  </dd>
+  <dt>
+    Blue:
+  </dt>
+  <dd>
+    0
+  </dd>
+</dl>
+`;
