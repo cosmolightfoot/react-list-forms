@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header test header snapshot 1`] = `
+<header>
+  My Cool Photo Album Site
+</header>
+`;
